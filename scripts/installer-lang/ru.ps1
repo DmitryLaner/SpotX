@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════════════╗
-║ Добро пожаловать в SpotX для Windows ║
+║ Добро пожаловать в Spotify locked ad (by Lanerov) для Windows ║
 ╚══════════════════════════════════════╝"
     Incorrect       = "Ой, некорректное значение,"
     Incorrect2      = "повторите ввод через"
@@ -39,7 +39,7 @@
     ModSpoti        = "Модифицирую Spotify..."
     Error           = "Ошибка"
     FileLocBroken   = "Расположение файлов Spotify нарушено, удалите клиент Spotify и снова запустите скрипт"
-    Spicetify       = "Обнаружен Spicetify, он должен быть установлен после SpotX, открыть рекомендуемые действия в FAQ ? [Y/N]"
+    Spicetify       = "Обнаружен Spicetify, он должен быть установлен после Spotify locked ad, открыть рекомендуемые действия в FAQ ? [Y/N]"
     NoRestore       = "SpotX уже был установлен, но файл для восстановления xpui.bak не найден. `nУдалите клиент Spotify и снова запустите Install.bat"
     InstallComplete = "Установка завершена"
     HostInfo        = "В файле hosts найдены нежелательные Url-адреса"
